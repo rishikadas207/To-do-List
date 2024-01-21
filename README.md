@@ -17,17 +17,17 @@ This is a simple To-Do List application created using HTML, CSS, and JavaScript.
 Open the index.html file in your preferred web browser.
 Start managing your to-do list!
 
-Technologies Used
+##Technologies Used
 HTML
 CSS
 JavaScript
 
 
-Contribution
+##Contribution
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or create a pull request.
 
 
-License
+##License
 This project is licensed under the MIT License.
 
 Happy task managing!

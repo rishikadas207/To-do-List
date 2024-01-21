@@ -17,6 +17,8 @@ This is a simple To-Do List application created using HTML, CSS, and JavaScript.
 Open the index.html file in your preferred web browser.
 Start managing your to-do list!
 
+
+
 Technologies Used
 
 
@@ -36,6 +38,8 @@ License
 
 This project is licensed under the MIT License.
 
+
 Happy task managing!
 
 Make sure to replace "your-username" and "your-repo" with your GitHub username and repository name. Also, if you have a specific license you want to use, update the license section accordingly.
+
